@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\stick\inkscape_utils\exporter\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\stick\inkscape_utils\layer_export\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\cxrandal.TWBDM01\AppData\Local\JetBrains\ReSharper\v7.1\SolutionCaches\_ReSharper.inkscape_utils.-850572540\Decompiler\decompiler\32\e24553de\Path.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>layer_export</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
