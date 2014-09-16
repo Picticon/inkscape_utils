@@ -1,0 +1,5 @@
+c:\stick\inkscape_utils\exporter\bin\Debug\exporter.exe
+c:\stick\inkscape_utils\exporter\bin\Debug\exporter.pdb
+c:\stick\inkscape_utils\exporter\obj\Debug\exporter.csprojResolveAssemblyReference.cache
+c:\stick\inkscape_utils\exporter\obj\Debug\exporter.exe
+c:\stick\inkscape_utils\exporter\obj\Debug\exporter.pdb

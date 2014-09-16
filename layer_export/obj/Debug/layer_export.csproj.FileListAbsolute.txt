@@ -1,0 +1,5 @@
+c:\stick\inkscape_utils\layer_export\bin\Debug\layer_export.exe
+c:\stick\inkscape_utils\layer_export\bin\Debug\layer_export.pdb
+c:\stick\inkscape_utils\layer_export\obj\Debug\layer_export.csprojResolveAssemblyReference.cache
+c:\stick\inkscape_utils\layer_export\obj\Debug\layer_export.exe
+c:\stick\inkscape_utils\layer_export\obj\Debug\layer_export.pdb
